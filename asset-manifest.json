@@ -1,15 +1,15 @@
 {
-  "main.css": "/clicky/static/css/main.e0d62a94.chunk.css",
-  "main.js": "/clicky/static/js/main.2ea56924.chunk.js",
-  "main.js.map": "/clicky/static/js/main.2ea56924.chunk.js.map",
-  "runtime~main.js": "/clicky/static/js/runtime~main.c6956f21.js",
-  "runtime~main.js.map": "/clicky/static/js/runtime~main.c6956f21.js.map",
-  "static/css/2.1b9726f4.chunk.css": "/clicky/static/css/2.1b9726f4.chunk.css",
-  "static/js/2.9b46ec5a.chunk.js": "/clicky/static/js/2.9b46ec5a.chunk.js",
-  "static/js/2.9b46ec5a.chunk.js.map": "/clicky/static/js/2.9b46ec5a.chunk.js.map",
-  "index.html": "/clicky/index.html",
-  "precache-manifest.b84d5f97271e2d06cec6f69b45b478ce.js": "/clicky/precache-manifest.b84d5f97271e2d06cec6f69b45b478ce.js",
-  "service-worker.js": "/clicky/service-worker.js",
-  "static/css/2.1b9726f4.chunk.css.map": "/clicky/static/css/2.1b9726f4.chunk.css.map",
-  "static/css/main.e0d62a94.chunk.css.map": "/clicky/static/css/main.e0d62a94.chunk.css.map"
+  "main.css": "/clicky-redo/static/css/main.e0d62a94.chunk.css",
+  "main.js": "/clicky-redo/static/js/main.2ea56924.chunk.js",
+  "main.js.map": "/clicky-redo/static/js/main.2ea56924.chunk.js.map",
+  "runtime~main.js": "/clicky-redo/static/js/runtime~main.8176f3cb.js",
+  "runtime~main.js.map": "/clicky-redo/static/js/runtime~main.8176f3cb.js.map",
+  "static/css/2.1b9726f4.chunk.css": "/clicky-redo/static/css/2.1b9726f4.chunk.css",
+  "static/js/2.9b46ec5a.chunk.js": "/clicky-redo/static/js/2.9b46ec5a.chunk.js",
+  "static/js/2.9b46ec5a.chunk.js.map": "/clicky-redo/static/js/2.9b46ec5a.chunk.js.map",
+  "index.html": "/clicky-redo/index.html",
+  "precache-manifest.0638e93eb28f54512e84c3f7c46e45b5.js": "/clicky-redo/precache-manifest.0638e93eb28f54512e84c3f7c46e45b5.js",
+  "service-worker.js": "/clicky-redo/service-worker.js",
+  "static/css/2.1b9726f4.chunk.css.map": "/clicky-redo/static/css/2.1b9726f4.chunk.css.map",
+  "static/css/main.e0d62a94.chunk.css.map": "/clicky-redo/static/css/main.e0d62a94.chunk.css.map"
 }
