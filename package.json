@@ -2,7 +2,7 @@
   "name": "clicky",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://scottolafsen.github.io/clicky",
+  "homepage": "https://scottolafsen.github.io/clicky-redo",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
