@@ -1,0 +1,21 @@
+.wrapper {
+  padding-top: 50px;
+  padding-left: 100px;
+  background: #ECEFF1;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}
+
+ul {
+  width: 100%;
+}
+li {
+  width: 30%;
+  color: aliceblue;
+  
+}

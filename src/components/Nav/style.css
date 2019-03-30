@@ -1,0 +1,12 @@
+.nav {
+    padding-top: 50px;
+    background: #ECEFF1;
+    width: 100%;
+    height: 15%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: space-around;
+    align-content: flex-end;
+    overflow: auto;
+  }
